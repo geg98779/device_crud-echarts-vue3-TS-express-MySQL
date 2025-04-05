@@ -1,3 +1,3 @@
 module.exports = {
-	jwtSecretkey:'sktcodemoney'
+	jwtSecretkey:'qd_xiaowang'
 }
